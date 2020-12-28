@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+	<file>Icon/eewEventMarker.png</file>
+        <file>ViewMap.qml</file>
+        <file>MapSliders.qml</file>
+        <file>StaCircle.qml</file>
+	<file>EEWStarMarker.qml</file>
+    </qresource>
+</RCC>
